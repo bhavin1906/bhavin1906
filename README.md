@@ -1,5 +1,14 @@
 ### Hi there 👋
+I’m Bhavin Yardi, a Graduate Mechanical Engineering student at the Georgia Institute of Technology.
 
+
+With a passion for solving complex problems through a blend of computational precision and practical application, I focus on creating solutions that strike the right balance between engineering rigor and real-world efficiency.
+
+
+My technical foundation spans CAD modeling, CFD simulations, performance analysis, and design validation workflows, supported by extensive research experience that bridges analytical theory with experimental insight.
+
+
+Over the course of my journey, I’ve worked on projects in product development and testing, tool development, and project management - experiences shaped by my role as a CFD Intern at Ansys, a researcher at the MiNDS lab and a Cost Engineer at ExxonMobil
 <!--
 **bhavin1906/bhavin1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
